@@ -1,0 +1,38 @@
+p {
+    color: bisque;
+}
+h1 {
+    color:antiquewhite;
+}
+h2 {
+    color:black;
+}
+h3 {
+    color:blue;
+}
+h4 {
+    color:blueviolet;
+}
+h5 {
+    color:brown;
+}
+
+.c1 {
+    color:blue;
+}
+
+.c2 {
+    color:crimson;
+}
+#korea {
+    color:crimson;
+}
+p.korea {
+    color:blue; 
+}
+#sejong {
+color:yellow;
+}
+/*ctrl s눌러서 저장 자주해주기*/
+
+/* h1, p 등의 호출 함수 맞춰서 함수를 짜면 된다. */
