@@ -1,0 +1,33 @@
+span {
+    background-color: aqua;
+    color: bisque;
+}
+
+div {
+    background-color: blue;
+    color: red;
+}
+
+/* div {
+    background-color: blue;
+    color: red;
+    display: inline;
+} 
+
+ span {
+    background-color: aqua;
+    color: bisque;
+    display: block;
+} */
+
+/*span {
+    background-color: aqua;
+    color: bisque;
+    display: inline-block;
+} 
+
+div {
+    background-color: blue;
+    color: red;
+    display: inline-block;
+} */
